@@ -1,0 +1,10 @@
+{
+  "name": "rss-post-manager/app",
+  "description": "RSS and Atom post manager for CodeIgniter 3",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.4",
+    "simplepie/simplepie": "^1.8"
+  }
+}
